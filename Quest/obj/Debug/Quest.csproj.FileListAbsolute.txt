@@ -1,0 +1,11 @@
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\obj\Debug\Quest.csproj.AssemblyReference.cache
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\obj\Debug\Quest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\obj\Debug\Quest.Properties.Resources.resources
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\obj\Debug\Quest.csproj.GenerateResource.cache
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\obj\Debug\Quest.csproj.CoreCompileInputs.cache
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\bin\Debug\Quest.exe.config
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\bin\Debug\Quest.exe
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\bin\Debug\Quest.pdb
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\obj\Debug\Quest.Form1.resources
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\obj\Debug\Quest.exe
+C:\Users\Lamtishka\Desktop\ооп\Quest\Quest\obj\Debug\Quest.pdb
